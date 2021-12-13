@@ -2,13 +2,13 @@
 
 
 
-About xsa:
+# About xsa:
 
 This is a simple tool written in pure bash script to help you scan ports and enumerate directories, by one tool.
 
 -------------------
 
-* Installation:
+# Usage:
 * 1 - chmod u+x xsa.sh
 * 2 - ./xsa.sh 
 * 3 - choose options 
