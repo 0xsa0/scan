@@ -15,6 +15,6 @@ This is a simple tool written in pure bash script to help you scan ports and enu
 *     1. Port scan
 *     2. Dir Fuzz
 *     3. Quit
-* 
-   -------------
+
+  -------------
 
