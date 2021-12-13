@@ -3,7 +3,9 @@
 
 
 About 0xsa:
+
 This is a simple tool written in pure bash script to help you scan ports and enumerate directories, by one tool.
+
 -------------------
 
 * Installation:
@@ -17,5 +19,4 @@ This is a simple tool written in pure bash script to help you scan ports and enu
 * 3. Quit
 
   -------------
-  🎆 🎆
 
