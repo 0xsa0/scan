@@ -2,7 +2,7 @@
 
 
 
-About 0xsa:
+About xsa:
 
 This is a simple tool written in pure bash script to help you scan ports and enumerate directories, by one tool.
 
