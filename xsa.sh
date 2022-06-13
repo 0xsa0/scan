@@ -10,7 +10,7 @@ echo -e "
 |    #   #   #   #  #     # #     # |
 |     ###   #     #  #####  #     # |
 '-----------------------------------'
-      Authors : Saeed  &  Ibrahim & Mohammed 
+      Authors : Saeed  Alzahrani
 " 
 
 G="\e[32m"
